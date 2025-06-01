@@ -1,0 +1,27 @@
+Harshad Naik
+BhaBangalore, India
+Mail: nharshad26@outlook.com
+Mobile: +91-8951071289
+Portfolio: https://harshad03-gn.github.io/Harshad_Portfolio
+GitHub: https://github.com/Harshad03-GN
+LinkedIn: https://www.linkedin.com/in/harshad-naik-527819249
+
+[Date]
+
+Hiring Manager
+[Company Name]
+[Company Address]
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the [Position Title] role at [Company Name]. As a final-year Computer Science and Engineering student at Sahyadri College, with hands-on experience in cloud computing, DevOps, and software development, I am excited about the opportunity to bring my skills and passion to your team.
+
+During my internship at MRI Software, I contributed to full-cycle development efforts, enhancing code quality, improving test coverage to 98%, and collaborating with cross-functional teams to reduce system downtime by 20%. My projects, including a Dockerized image resizer pipeline using GitHub Actions and Azure Blob Storage, reflect my ability to design and deploy scalable cloud solutions. Additionally, my work on a Coverage Path Planning Algorithm using ROS showcases my problem-solving skills and commitment to optimizing real-world systems.
+
+I hold certifications from AWS, Azure, and KodeKloud that have strengthened my proficiency in infrastructure automation, CI/CD pipelines, and cloud architecture. My technical foundation is further backed by strong soft skills in leadership, teamwork, and creativity—qualities that help me thrive in collaborative environments.
+
+I am eager to contribute to [Company Name]’s innovative projects and further grow as a DevOps/cloud engineer. Thank you for considering my application. I would welcome the opportunity to discuss how my experience and goals align with your team’s mission.
+
+Sincerely,
+Harshad Naik
+
